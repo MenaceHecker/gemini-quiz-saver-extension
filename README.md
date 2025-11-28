@@ -1,1 +1,1 @@
-Just a project that helps college kids in preparing for exams using Google Gemini
+Just a project that helps in preparing for exams using Google Gemini
