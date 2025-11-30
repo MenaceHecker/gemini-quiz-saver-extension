@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Gemini Quiz Saver",
   "version": "1.0",
-  "description": "Save Gemini quiz questions and answers to Google Docs",
+  "description": "Save Gemini quiz questions and answers to Google Docs. Still testing",
   "permissions": [
     "activeTab",
     "storage",
